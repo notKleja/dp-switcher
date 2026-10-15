@@ -1,0 +1,11 @@
+**/build/
+**/backups/
+.vs/
+**/.vs/
+*.user
+*.suo
+*.exe
+*.dll
+*.pdb
+*.obj
+*.log
